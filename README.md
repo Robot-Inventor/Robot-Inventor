@@ -6,5 +6,5 @@
 
 # My works on GitHub
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Robot-Inventor&show_icons=true&theme=dark)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Robot-Inventor&layout=compact&theme=dark)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Robot-Inventor&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Robot-Inventor&layout=compact)
