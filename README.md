@@ -1,7 +1,7 @@
 # My GitHub Works
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Robot-Inventor&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Robot-Inventor&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Robot-Inventor&show_icons=true&theme=github_dark_dimmed)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Robot-Inventor&layout=compact&theme=github_dark_dimmed)
 
 # My Qiita Works
 
